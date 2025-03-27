@@ -1,7 +1,7 @@
 # Banco de Dados I - Projeto Final: Sistema de Supermercado
 
 ## 📚 Descrição do Projeto
-Trabalho desenvolvido para a disciplina **Banco de Dados I**, consistindo na modelagem e implementação de um banco de dados para um sistema de controle de estoque para um supermercado. O projeto inclui:
+Trabalho desenvolvido para a disciplina **Banco de Dados I**, consistindo na modelagem e implementação de um banco de dados para um sistema de um supermercado. O projeto inclui:
 - Modelo conceitual (entidades, relacionamentos e cardinalidades)
 - Scripts SQL para criação do schema
 - Inserção de dados de exemplo
